@@ -104,7 +104,8 @@ endmodule
 ![uptime](https://github.com/Jenishajustin/Exp-7-Synchornous-counters-/assets/119405070/0338cc5d-a227-4b11-a89b-5ae59b632152)
 
 #### DOWNCOUNTER
-![downtime](https://github.com/Jenishajustin/Exp-7-Synchornous-counters-/assets/119405070/7702e237-f69e-45ed-924d-e9aa719a55fe)
+![image](https://github.com/Jenishajustin/Exp-7-Synchornous-counters-/assets/119405070/54c47a6a-2a50-4d83-8017-4584a89e0523)
+
 
 ### TRUTH TABLE (Excitation Table)
 #### UPCOUNTER
